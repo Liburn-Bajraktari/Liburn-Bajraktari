@@ -34,12 +34,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/Liburn-Bajraktari/Liburn-Bajraktari/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-
-###
-
