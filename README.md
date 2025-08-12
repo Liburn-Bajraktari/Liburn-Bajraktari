@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/Liburn-Bajraktari/Liburn-Bajraktari/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Liburn-Bajraktari/Liburn-Bajraktari/output/snake.svg" alt="Snake animation" />
 
 ###
 
