@@ -21,7 +21,7 @@
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="SQL Server" title="SQL Server" />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" title="Oracle" />
     <img width="15" />
@@ -36,6 +36,9 @@
 
   <!-- Spotify Section -->
   <h3>🎵 Currently Listening To</h3>
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w0xe17ixpwujbr5i0lus6vrgr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=w0xe17ixpwujbr5i0lus6vrgr&redirect=true)
+  
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=w0xe17ixpwujbr5i0lus6vrgr&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=w0xe17ixpwujbr5i0lus6vrgr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=true" alt="Spotify Recently Played" />
+  </a>
 
 </div>
